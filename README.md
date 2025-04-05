@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm [Your Name]!
 
-🎓 I'm a [Your Degree] student with a passion for technology, problem-solving, and continuous learning.  
-💼 Aspiring [Your Target Role – e.g., Data Scientist / Software Developer / DevOps Engineer].  
+🎓 I'm a Computer Science student with a passion for technology, problem-solving, and continuous learning.  
+💼 Aspiring software developer, Aws Enthusiast,Data Scientist.  
 🌐 I enjoy building full-stack applications, analyzing data, and exploring new AI tools.
 
 ---
