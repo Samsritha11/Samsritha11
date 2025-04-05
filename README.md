@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Samsritha Raavi!
 
 🎓 I'm a Computer Science student with a passion for technology, problem-solving, and continuous learning.  
 💼 Aspiring software developer, Aws Enthusiast,Data Scientist.  
