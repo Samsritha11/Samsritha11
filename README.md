@@ -1,62 +1,90 @@
-# 👋 Hi there, I'm Samsritha Raavi!
+Kansas City, Missouri
+📧 rsamsritha@gmail.com | 📞 +1 (314) 561-2553
+https://github.com/Samsritha11
+https://www.linkedin.com/in/samsritha-raavi/
 
-🎓 I'm a Computer Science student with a passion for technology, problem-solving, and continuous learning.  
-💼 Aspiring software developer, Aws Enthusiast,Data Scientist.  
-🌐 I enjoy building full-stack applications, analyzing data, and exploring new AI tools.
+🧠 Professional Summary
+Computer Science graduate with a 3.77 GPA and over 2 years of experience as a Python Developer. Skilled in full-stack development using Django, Flask, and RESTful APIs, along with frontend tools like React and Bootstrap. Adept at building scalable cloud-native applications on AWS, integrating AI features, and delivering production-ready systems. Strong foundation in machine learning, data analytics, and prompt engineering, with a proven track record in academic and industry projects.
 
----
+💼 Experience
+Software Developer
+Reality AI Lab – Jan 2025 – Present
 
-## 🔧 Technologies & Tools
+Developed full-stack AI-powered applications using Python and Flask/Django.
 
-- **Languages:** Python, Java, C, TypeScript, SQL, PHP  
-- **Frameworks/Libraries:** React, Laravel, Pandas, NumPy, Scikit-learn, TailwindCSS  
-- **Cloud & DevOps:** Azure, GitHub Actions, Docker, CI/CD  
-- **Databases:** MongoDB, Azure SQL, MySQL  
-- **Tools:** VS Code, Jupyter Notebook, Postman, Git
+Integrated AI functionalities with user interfaces, collaborating closely with engineers and designers.
 
----
+Implemented rigorous testing, debugging, and version control (Git, Docker, Postman).
 
-## 💼 Featured Projects
+Technical Assistant
+Sodexo – Feb 2025 – May 2025
 
-### 🔍 Resume Analyzer App  
-**React + TypeScript + OpenAI API**  
-> An AI-powered web app that allows users to upload resumes and receive skill-based feedback and summaries.  
-[GitHub Repo](https://github.com/yourusername/resume-analyzer)
+Delivered IT support for hardware, software, and network issues.
 
----
+Maintained technical documentation and collaborated with vendors for troubleshooting.
 
-### 📊 PowerCo Customer Churn Prediction  
-**Python + Machine Learning + EDA**  
-> An end-to-end data science project that explores customer behavior and predicts churn using various ML models.  
-[GitHub Repo](https://github.com/yourusername/powerco-churn)
+Python Developer
+RK Informatics Pvt Ltd – Mar 2021 – Jul 2023
 
----
+Built scalable web apps using Django, Flask, JavaScript, and Bootstrap.
 
-### 🧠 AI Text Generator  
-**Python + NLP + Streamlit**  
-> A simple NLP app that uses language models to generate text based on user input.  
-[GitHub Repo](https://github.com/yourusername/text-generator)
+Developed APIs, managed MySQL/PostgreSQL databases, and deployed apps on cloud platforms.
 
----
+Participated in Agile sprint planning, code reviews, and performance tuning.
 
-### 🧩 Employee Directory with LinkedIn Links  
-**React + TypeScript**  
-> A UI app that displays employee names and links to their LinkedIn profiles.  
-[GitHub Repo](https://github.com/yourusername/employee-directory)
+Junior Programmer
+RK Informatics Pvt Ltd – Nov 2019 – Feb 2021
 
----
+Supported web development projects and implemented backend logic and RESTful APIs.
 
-## 📈 GitHub Stats
+Salesforce Administrator Intern
+Smart Bridge – Jul 2022 – Sep 2022
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+Completed modules in Service Cloud, Process Automation, Dashboards, and Super Badges.
 
----
+Cybersecurity Intern
+AICTE Virtual Internship – Jul 2022 – Sep 2022
 
-## 📫 Get in Touch
+Learned foundational topics in network security, SOC, and cloud security.
 
-- 💼 [LinkedIn](https://linkedin.com/in/yourusername)  
-- 📨 Email: your.email@example.com  
-- 🌐 [Portfolio Website (optional)](https://yourwebsite.com)
+🎓 Education
+M.S. in Computer Science (Data Science Emphasis)
+University of Missouri - Kansas City — May 2025
+GPA: 3.77
 
-Thanks for stopping by! 🚀
+🛠️ Technical Skills
+Languages: Python, Java, JavaScript, HTML, CSS, SQL
+
+Frameworks/Tools: Django, Flask, React, Bootstrap, Docker, Git, Postman
+
+AI/ML: Scikit-learn, Prompt Engineering, Vertex AI
+
+Cloud: AWS (EC2, S3, EBS), Azure
+
+Databases: MySQL, PostgreSQL
+
+Soft Skills: Communication, Collaboration, Documentation
+
+🧪 Projects
+Resume Portfolio on AWS EC2: Deployed a personal portfolio using AWS EC2 instances to demonstrate cloud deployment and DevOps skills.
+
+Frequent Patient Prediction: Built ML models to predict unplanned hospitalizations using socio-economic and medical features.
+
+📜 Certifications
+AWS Technical Essentials (Coursera)
+
+Architecting with Google Compute Engine
+
+BCG Gen AI & Data Science Job Simulations
+
+Microsoft MTA (Python)
+
+NPTEL – Soft Skills & Personality Development
+
+Salesforce Superbadges
+
+🤝 Volunteer Work
+Tech Wings Association (2019–2023)
+
+Organized and participated in social and technical events supporting CS students.
+
